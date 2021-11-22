@@ -35,6 +35,7 @@ function App() {
     </Nav>
   </Navbar.Collapse>
   </Container>
+  <h1>test</h1>
 </Navbar>
         <img src={logo} className="App-logo" alt="logo" />
           Edit <code>src/App.js</code> and save to reload.
